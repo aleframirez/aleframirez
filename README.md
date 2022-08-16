@@ -3,10 +3,7 @@
  <!-- ### Soy Alejandro Ramirez (Full Stack Developer) me encanta el mundo de la programación sobretodo el Front End!! -->
  <h3 align="center">I'm Ramirez Alejandro, a Full-Stack developer</h3>
 
-<p align="center">
-   <ing src="https://user-images.githubusercontent.com/96086242/184977308-0ba9d6c0-4d16-4fee-ad54-66ecf9c5c504.gif" />
-<!-- ![giphy](https://user-images.githubusercontent.com/96086242/184977308-0ba9d6c0-4d16-4fee-ad54-66ecf9c5c504.gif) -->
-</p>
+![giphy](https://user-images.githubusercontent.com/96086242/184977308-0ba9d6c0-4d16-4fee-ad54-66ecf9c5c504.gif)
 
 <h4 align="center"><b><i>Find me in:</i></b></h3>
 <p align="center">
