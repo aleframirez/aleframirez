@@ -7,7 +7,7 @@
 
 <h4 align="center"><b><i>Find me in:</i></b></h3>
 <p align="center">
- <b><i> My LinkedIn profile</i></b>
+ <!-- <b><i> My LinkedIn profile</i></b> -->
  <a href="https://www.linkedin.com/in/fullstackdeveloper-alejandro-ramirez/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alejandro" height="30" width="40" /></a>
 </p>
@@ -42,7 +42,7 @@
   
 💻 Full Stack Developer and Chef.
 
-🙋🏻‍♀️ About me
+🙋🏻‍♀️ Full Stack Developer with orientation to the Back End. Experience working in NodeJS, JavaScript, SQL among other technologies in the sector. With analytical thinking, problem solving, teamwork, communication and autonomy.
 
 🔎 More info 
 
@@ -79,5 +79,5 @@ Info about the project
     <li>Cloudinary </li>
  
 </ul>
--HenryFilms  --> Front end! E-comerce de series y peliculas [Click aqui!](https://github.com/franxdd/henryfilm)
-El proyecto consiste en una aplicación que permite ver las series y peliculas con una información detallada de cada uno al darle click en este. Tiene un sistema de autenticación con login, register y login con google. Cuenta con roles user y admin. El usuario, puede hacer compras, editar su perfil, agregar a favoritos. El panel del admin tiene la opcion de crear, editar y borrar un producto ademas hacer un control de ususarios registrados.
+-HenryFilms  --> Back-End! Series and movies E-comerce [Click aqui!](https://github.com/franxdd/henryfilm).
+The project consists of an application that allows you to watch series and movies with detailed information on each one by clicking on it. It has an authentication system with login, register and login with google. It has user and admin roles. The user can make purchases, edit their profile, add to favorites. The admin panel has the option to create, edit and delete a product as well as control registered users.
