@@ -3,7 +3,7 @@
  <!-- ### Soy Alejandro Ramirez (Full Stack Developer) me encanta el mundo de la programación sobretodo el Front End!! -->
  ### I'm Ramirez Alejandro, a Full-Stack developer
 
-<iframe src="https://giphy.com/embed/40cxBsgqqwb65M5ivp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/40cxBsgqqwb65M5ivp">via GIPHY</a></p>
+
 
 <h4 align="left"><b><i>Find me in:</i></b></h3>
 <p align="left">
