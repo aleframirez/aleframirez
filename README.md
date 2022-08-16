@@ -3,9 +3,11 @@
  <!-- ### Soy Alejandro Ramirez (Full Stack Developer) me encanta el mundo de la programación sobretodo el Front End!! -->
  ### I'm Ramirez Alejandro, a Full-Stack developer
 
-<h4 align="center"><b><i>Find me in:</i></b></h3>
-<p align="center">
- <a href="https://www.linkedin.com/in/fullstackdeveloper-alejandro-ramirez/" target="blank">
+![giphy](https://user-images.githubusercontent.com/96086242/184977308-0ba9d6c0-4d16-4fee-ad54-66ecf9c5c504.gif)
+
+<h4 align="left"><b><i>Find me in:</i></b></h3>
+<p align="left">
+ <a href="www.linkedin.com/in/fullstackdeveloper-alejandro-ramirez" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alejandro" height="30" width="40" /></a>
  <b><i> My LinkedIn profile</i></b>
 </p>
