@@ -4,7 +4,7 @@
  <h3 align="center">I'm Ramirez Alejandro, a Full-Stack developer</h3>
 
 <div align="center">
-    ![giphy](https://user-images.githubusercontent.com/96086242/184977308-0ba9d6c0-4d16-4fee-ad54-66ecf9c5c504.gif)
+    <img src="https://user-images.githubusercontent.com/96086242/184977308-0ba9d6c0-4d16-4fee-ad54-66ecf9c5c504.gif" alt="img"/>
 </div>
 
 <br></br>
