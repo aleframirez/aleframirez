@@ -7,6 +7,7 @@
     ![giphy](https://user-images.githubusercontent.com/96086242/184977308-0ba9d6c0-4d16-4fee-ad54-66ecf9c5c504.gif)
 </div>
 
+<br></br>
 <h4 align="left"><b><i>Find me in:</i></b></h3>
 <p align="left">
  <!-- <b><i> My LinkedIn profile</i></b> -->
