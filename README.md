@@ -62,7 +62,7 @@ Quieres contactarme? Aqui te dejo mi Email! 🙌
     <li>Python</li>
     <li>PyGames</li>
 </ul>
-<p>El clasi juego ¡Space Invaders!</p>
+<p>El clasico juego ¡Space Invaders!</p>
 <br></br>
 <h2> Asistente Virtual </h2>
 
