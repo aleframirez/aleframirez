@@ -62,6 +62,7 @@ Quieres contactarme? Aqui te dejo mi Email! 🙌
     <li>Python</li>
     <li>PyGames</li>
 </ul>
+<p>El clasi juego ¡Space Invaders!</p>
 <br></br>
 <h2> Asistente Virtual </h2>
 
@@ -74,6 +75,7 @@ Quieres contactarme? Aqui te dejo mi Email! 🙌
     <li>webbrowser</li>
     <li>Entre otras librerias...</li>
 </ul>
+<p>Un asistente con reconocimiento de voz. te puede ayudar con tareas como busquedas por wikipedia, darte el dia o la hora actual, reproducir una cancion en YouTube, entre otras cosas mas... ¡como contarte un chiste!</p>
 <!-- Info about the project -->
  <br></br>
  
