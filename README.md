@@ -1,14 +1,14 @@
 
  <h1 align="center">Hi there! 👋</h1>
  <!-- ### Soy Alejandro Ramirez (Full Stack Developer) me encanta el mundo de la programación sobretodo el Front End!! -->
- <h3 align="center">I'm Ramirez Alejandro, a Full-Stack developer</h3>
+ <h3 align="center">Soy Ramirez Alejandro, programador con conocimientos en JS y Python</h3>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/96086242/184977308-0ba9d6c0-4d16-4fee-ad54-66ecf9c5c504.gif" alt="img"/>
 </div>
 
 <br></br>
-<h4 align="left"><b><i>Find me in:</i></b></h3>
+<h4 align="left"><b><i>Encuentrame en:</i></b></h3>
 <p align="left">
  <!-- <b><i> My LinkedIn profile</i></b> -->
  <a href="https://www.linkedin.com/in/fullstackdeveloper-alejandro-ramirez/" target="blank">
@@ -20,7 +20,7 @@
  <b><i> My portfolio</i></b>
 </p> -->
 
-<h3 align="center">Some of my skills:</h3>
+<h3 align="center">Estas son algunas de las habilidades que manejo 💪:</h3>
 <p align="center">
     <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML" > <img src = "utils/icons/html5.svg" alt="html5" width='40' height = '40'> </a>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS" > <img src = "utils/icons/css3.svg" alt="css3" width='40' height = '40'> </a>
@@ -38,39 +38,47 @@
     <a href = "https://sass-lang.com/" > <img src = "utils/icons/sass.png" alt="sass" width='40' height = '40'> </a>
 
 </p>
- <p align="center">And many more to learn!</p>
+ <p align="center">Y con ganas de seguir aprendiendo!</p>
    
  <br></br>
-  ## About me:
+  ## Sobre mi:
   
-💻 Full Stack Developer and Chef.
+💻 Programador y Chef! 👨‍🍳
 
 🙋🏻‍♀️ Full Stack Developer with orientation to the Back End. Experience working in NodeJS, JavaScript, SQL among other technologies in the sector. With analytical thinking, problem solving, teamwork, communication and autonomy.
 
-🔎 More info 
+🔎 Mas info 
 
-Want to chat with me? Heres my email! 🙌
+Quieres contactarme? Aqui te dejo mi Email! 🙌
 
 📧 email: aleframirez5@gmail.com
   
- ## Projects:
+ ## Algunos de mis proyectos:
  
-<h2> Dogs App </h2>
+<h2> Juego: Space Invaders </h2>
 
-<h4> Made with: </h4>
+<h4> Hecho con: </h4>
 <ul>
-    <li>React</li>
-    <li>Redux</li>
-    <li>NodeJs</li>
-    <li>Express</li>
-    <li>Sequelize</li>
-    <li>PostgreSQL</li>
+    <li>Python</li>
+    <li>PyGames</li>
 </ul>
-Info about the project
+<br></br>
+<h2> Asistente Virtual </h2>
+
+<h4> Hecho con: </h4>
+<ul>
+    <li>Python</li>
+    <li>pyttsx3</li>
+    <li>speech_recognition</li>
+    <li>pywhatkit</li>
+    <li>webbrowser</li>
+    <li>Entre otras librerias...</li>
+</ul>
+<!-- Info about the project -->
  <br></br>
  
- <h2> E-commerce HenryFilms </h2>
- <h4> Made with: </h4>
+ <h2> E-commerce HenryFilms ( <b>BackEnd</b> ) </h2>
+ <h4> Hecho con: </h4>
 <ul>
     <li>React</li>
     <li>Redux</li>
@@ -82,5 +90,5 @@ Info about the project
     <li>Cloudinary </li>
  
 </ul>
--HenryFilms  --> Back-End! Series and movies E-comerce [Click aqui!](https://github.com/franxdd/henryfilm).
-The project consists of an application that allows you to watch series and movies with detailed information on each one by clicking on it. It has an authentication system with login, register and login with google. It has user and admin roles. The user can make purchases, edit their profile, add to favorites. The admin panel has the option to create, edit and delete a product as well as control registered users.
+-HenryFilms  --> Back-End! Series y Peliculas E-comerce [Click aqui!](https://github.com/franxdd/henryfilm).
+El proyecto consiste en una aplicación que permite ver series y películas con información detallada de cada una pulsando sobre ella. Tiene un sistema de autenticación con login, registro y login con google. Tiene roles de usuario y administrador. El usuario puede realizar compras, editar su perfil, añadir a favoritos. El panel de administración tiene la opción de crear, editar y eliminar un producto así como controlar los usuarios registrados.
