@@ -45,9 +45,9 @@
   
 💻 Programador y Chef! 👨‍🍳
 
-🙋🏻‍♀️ Full Stack Developer with orientation to the Back End. Experience working in NodeJS, JavaScript, SQL among other technologies in the sector. With analytical thinking, problem solving, teamwork, communication and autonomy.
+🙋🏻‍♀️ Desarrollador trainee/jr con conocimientos en JavaScript y Python. Experiencia en Node.js y Vue.js, buscando oportunidades para crecer y contribuir en proyectos innovadores.
 
-🔎 Mas info 
+🔎 Mas info
 
 Quieres contactarme? Aqui te dejo mi Email! 🙌
 
@@ -92,3 +92,7 @@ Quieres contactarme? Aqui te dejo mi Email! 🙌
 </ul>
 -HenryFilms  --> Back-End! Series y Peliculas E-comerce [Click aqui!](https://github.com/franxdd/henryfilm).
 El proyecto consiste en una aplicación que permite ver series y películas con información detallada de cada una pulsando sobre ella. Tiene un sistema de autenticación con login, registro y login con google. Tiene roles de usuario y administrador. El usuario puede realizar compras, editar su perfil, añadir a favoritos. El panel de administración tiene la opción de crear, editar y eliminar un producto así como controlar los usuarios registrados.
+
+<br></br>
+
+<h2> Para ver mas proyectos visita mi seccion de proyectos o contactame! 😁 </h2>
