@@ -97,4 +97,4 @@ El proyecto consiste en una aplicación que permite ver series y películas con 
 
 <br></br>
 
-<h2> Para ver mas proyectos visita mi seccion de proyectos o contactame! 😁 </h2>
+<h2> Para ver mas proyectos visita mi seccion de repositorios o contactame! 😁 </h2>
