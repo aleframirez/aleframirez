@@ -26,8 +26,8 @@
     <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS" > <img src = "utils/icons/css3.svg" alt="css3" width='40' height = '40'> </a>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src = "utils/icons/javascript.svg" alt="Javascript" width='40' height = '40'> </a>
     <a href = "https://nodejs.org/en/" > <img src = "utils/icons/nodejs.svg" alt="node" width='40' height = '40'> </a>
-    <a href = "https://reactjs.org/" > <img src = "utils/icons/react.svg" alt="react" width='40' height = '40'> </a>
-    <a href = "https://redux.js.org/" > <img src = "utils/icons/redux.svg" alt="redux" width='40' height = '40'> </a>
+<!--     <a href = "https://reactjs.org/" > <img src = "utils/icons/react.svg" alt="react" width='40' height = '40'> </a> -->
+<!--     <a href = "https://redux.js.org/" > <img src = "utils/icons/redux.svg" alt="redux" width='40' height = '40'> </a> -->
     <a href=  "https://expressjs.com/" target="_blank" rel="noreferrer"><img src="utils/icons/express.png" width="36" height="25" alt="Express" /></a>
     <a href = "https://postgresql.org/" > <img src = "utils/icons/postgresql.svg" alt="postgresql" width='40' height = '40'> </a>
     <a href = "https://sequelize.org/" > <img src = "utils/icons/sequelize.svg" alt="sequelize" width='40' height = '40'> </a>
@@ -35,7 +35,7 @@
     <a href = "https://github.com//" > <img src = "utils/icons/git.png" alt="github" width='60' height = '35' > </a>
     <a href = "https://www.postman.com/" > <img src = "utils/icons/postman.svg" alt="postman" width='37' height = '37'> </a>
     <!-- <a href = "https://getbootstrap.com/" > <img src = "utils/icons/bootstrap.svg" alt="bootstrap" width='40'> </a> -->
-    <a href = "https://sass-lang.com/" > <img src = "utils/icons/sass.png" alt="sass" width='40' height = '40'> </a>
+<!--     <a href = "https://sass-lang.com/" > <img src = "utils/icons/sass.png" alt="sass" width='40' height = '40'> </a> -->
 
 </p>
  <p align="center">Y con ganas de seguir aprendiendo!</p>
@@ -45,7 +45,7 @@
   
 💻 Programador y Chef! 👨‍🍳
 
-🙋🏻‍♀️ Desarrollador trainee/jr con conocimientos en JavaScript y Python. Experiencia en Node.js y Vue.js, buscando oportunidades para crecer y contribuir en proyectos innovadores.
+🙋🏻‍♀️ Desarrollador autodidacta con conocimientos en JavaScript y Python. Experiencia en Node.js y Vue.js, buscando oportunidades para crecer y contribuir en proyectos innovadores.
 
 🔎 Mas info
 
