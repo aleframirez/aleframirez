@@ -30,7 +30,7 @@
 <!--     <a href = "https://redux.js.org/" > <img src = "utils/icons/redux.svg" alt="redux" width='40' height = '40'> </a> -->
     <a href=  "https://expressjs.com/" target="_blank" rel="noreferrer"><img src="utils/icons/express.png" width="36" height="25" alt="Express" /></a>
     <a href = "https://postgresql.org/" > <img src = "utils/icons/postgresql.svg" alt="postgresql" width='40' height = '40'> </a>
-    <a href = "https://sequelize.org/" > <img src = "utils/icons/sequelize.svg" alt="sequelize" width='40' height = '40'> </a>
+<!--     <a href = "https://sequelize.org/" > <img src = "utils/icons/sequelize.svg" alt="sequelize" width='40' height = '40'> </a> -->
     <a href = "https://git-scm.com/" > <img src = "utils/icons/git.svg" alt="git" width='40' height = '40'> </a>
     <a href = "https://github.com//" > <img src = "utils/icons/git.png" alt="github" width='60' height = '35' > </a>
     <a href = "https://www.postman.com/" > <img src = "utils/icons/postman.svg" alt="postman" width='37' height = '37'> </a>
